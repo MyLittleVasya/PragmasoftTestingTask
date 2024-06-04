@@ -7,4 +7,4 @@
 - H2 as the database
 - Spring JPA for the ORM
 - GraalVm JS
-### Details about launch instructions are in [INSTALL.md](https://github.com/MyLittleVasya/DataoxTesting/blob/master/INSTALL.md)
+### Details about launch instructions are in [INSTALL.md](https://github.com/MyLittleVasya/PragmasoftTestingTask/blob/master/INSTALL.md)
