@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: PragmasoftDemoTask
+  h2:
+    console:
+      enabled: true
+  datasource:
+    username: 1
+    password: 1
+    url: jdbc:h2:mem:testdb
+springdoc:
+  swagger-ui:
+    disable-swagger-default-url: true
+    path: /api
+server:
+  tomcat:
+    connection-timeout: 50000
